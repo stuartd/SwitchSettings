@@ -1,0 +1,4 @@
+C:\Users\stuart.dunkeld\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Mosaic\SwitchSettings\1.0\\SwitchSettings.dll
+C:\Users\stuart.dunkeld\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Mosaic\SwitchSettings\1.0\\SwitchSettings.pkgdef
+C:\Users\stuart.dunkeld\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Mosaic\SwitchSettings\1.0\\extension.vsixmanifest
+C:\Users\stuart.dunkeld\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Mosaic\SwitchSettings\1.0\\SwitchSettings.pdb
